@@ -1,0 +1,162 @@
+
+def process_file(dosya_adi):
+    """Bir dosyayý iþleyen ana fonksiyon"""
+    try:
+        kaynak_path = os.path.join(KAYNAK_DIZIN, dosya_adi)
+        hedef_path = os.path.join(HEDEF_DIZIN, f"{os.path.splitext(dosya_adi)[0]}.temizmetin.txt")
+        
+        # Dosya türünü belirle
+        is_pdf = dosya_adi.lower().endswith('.pdf')
+        
+        # Metin çýkarma
+        if is_pdf:
+            text = extract_text_from_pdf(kaynak_path)
+            source_type = "pdf"
+        else:
+            with open(kaynak_path, 'r', encoding='utf-8') as f:
+                text = f.read()
+            source_type = "txt"
+        
+        if not text:
+            raise Exception("Metin çýkarýlamadý, ne pdf nede txt dosya degil.")
+        
+        # Temel iþlemler
+        temiz_metin = clean_text(text)
+        tablolar = detect_tables(text)
+        
+        # Geliþmiþ referans çýkarma
+        references = extract_references_enhanced(text)
+        if references:
+            save_references(references, kaynak_path, source_type)
+        
+        # Çýktýlarý kaydet
+        with open(hedef_path, 'w', encoding='utf-8') as f:
+            f.write(temiz_metin)
+        
+        # Tablolarý kaydet
+        if tablolar:
+            base_name = os.path.splitext(dosya_adi)[0]
+            
+            with open(os.path.join(TEMIZ_TABLO_DIZIN, 'json', f"{base_name}.json"), 'w') as f:
+                json.dump(tablolar, f, indent=2, ensure_ascii=False)
+            
+            for i, table in enumerate(tablolar, 1):
+                df = pd.DataFrame(table['veriler'][1:], columns=table['veriler'][0])
+                
+                csv_path = os.path.join(TEMIZ_TABLO_DIZIN, 'csv', f"{base_name}_tablo{i}.csv")
+                df.to_csv(csv_path, index=False)
+                
+                excel_path = os.path.join(TEMIZ_TABLO_DIZIN, 'excel', f"{base_name}_tablo{i}.xlsx")
+                df.to_excel(excel_path, index=False)
+        
+        log_entry = {
+            'dosya': dosya_adi,
+            'tarih': datetime.now(pytz.timezone('Turkey')).isoformat(),
+            'tablo_sayisi': len(tablolar),
+            'referans_sayisi': len(references),
+            'dosya_tipi': source_type,
+            'bellek_kullanim': memory_usage()
+        }
+        
+        return (True, log_entry)
+    
+    except Exception as e:
+        error_log = {
+            'dosya': dosya_adi,
+            'hata': str(e),
+            'traceback': traceback.format_exc(),
+            'zaman': datetime.now().isoformat()
+        }
+        return (False, error_log)
+
+# Main fonksiyonunu güncelle
+def main():
+    """Ana program akýþý"""
+    global total_files, success_count, embedding_failed_count, text_extraction_failed_count
+    global collection, bib_collection
+
+    try:
+        init_dirs()
+
+        print("\n" + "="*60)
+        print("### ZOTERO PDF VE TXT ÝÞLEME SÝSTEMÝ ###")
+        print("="*60)
+        print("1. PDF ve TXT dosyalarýndan referans çýkarma")
+        print("2. Tablo çýkarma ve dönüþtürme")
+        print("3. Metin temizleme ve iþleme")
+        print("4. Embedding oluþturma")
+        print("="*60 + "\n")
+
+        json_file_name = input("Ýþlenecek JSON dosyasýnýn adýný girin (örneðin: Kitap.json): ")
+        print("/n Calisma dizini : " + os.getcwd() + SUCCESS_DIR + "\n")
+        json_file_path = Path(SUCCESS_DIR) / json_file_name
+
+        if not json_file_path.exists():
+            logger.error(f"? {json_file_name} dosyasý bulunamadý!")
+            return
+
+        data = json.loads(json_file_path.read_text(encoding="utf-8"))
+        total_files = len(data)
+
+        user_input = input("Baþtan baþlamak için [B], kaldýðýnýz yerden devam için [C], "
+                          "güncelleme için [G]: ").lower()
+
+        if user_input == 'b':
+            logger.warning("?? Veritabaný sýfýrlanýyor...")
+            try:
+                chroma_client.delete_collection(name="pdf_embeddings")
+                chroma_client.delete_collection(name="pdf_bibliography")
+                collection = chroma_client.get_or_create_collection(name="pdf_embeddings")
+                bib_collection = chroma_client.get_or_create_collection(name="pdf_bibliography")
+            except Exception as e:
+                logger.error(f"? Veritabaný sýfýrlama hatasý: {e}")
+                return
+            last_index = 0
+        elif user_input == 'g':
+            last_index = 0
+        elif user_input == 'c':
+            last_index = get_last_processed_index()
+        else:
+            last_index = 0
+
+        print(f"\nÝþlem baþlýyor... ({last_index + 1}/{total_files})")
+
+        with ProcessPoolExecutor(max_workers=multiprocessing.cpu_count()) as executor:
+            futures = {executor.submit(process_file, item["title"]): item["title"] 
+                      for item in data[last_index:]}
+
+            for future in tqdm(as_completed(futures), total=len(futures),
+                             desc="Dosyalar Ýþleniyor"):
+                dosya_adi = futures[future]
+                try:
+                    success, result = future.result()
+                    if success:
+                        success_count += 1
+                        logger.info(f"? {dosya_adi} iþlendi")
+                    else:
+                        logger.error(f"? {dosya_adi} hatasý: {result['hata']}")
+                except Exception as e:
+                    logger.error(f"? Ýþlem hatasý: {dosya_adi} - {str(e)}")
+
+    except Exception as e:
+        logger.error(f"Ana programda hata oluþtu: {e}")
+        error_log = {
+        'dosya': 'main',
+        'hata': str(e),
+        'traceback': traceback.format_exc(),
+        'zaman': datetime.now().isoformat()
+        }
+        logger.error(error_log)
+        traceback.print_exc()
+
+    finally:
+        print("\n" + "="*60)
+        print(f"Ýþlem tamamlandý!")
+        print(f"Toplam dosya: {total_files}")
+        print(f"Baþarýlý: {success_count}")
+        print(f"Embedding hatasý: {embedding_failed_count}")
+        print(f"Metin çýkarma hatasý: {text_extraction_failed_count}")
+        print("="*60)
+
+    
+

@@ -1,12 +1,1080 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mete\\Zotero\\zotasistan\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt30.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt28.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt29.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotxt.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt27.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt26.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt25.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt24.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt23.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt22.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt21.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt20.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt19.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt18.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt17.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt14.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zottxt.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai226.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai48x.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai47.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai46.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai45.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai44.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai43.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai42.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai41.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai40.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai39.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai37.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai36.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai35.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai33.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai32.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai31.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai30.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai27.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai24.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai23.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai22.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai21.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai20.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai19.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai18.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai17.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai16.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai15.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai14.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai13.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai12.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai11.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai10.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai9.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai8.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai7.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai4.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai3.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zotai.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zot38.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CF06DC-0F97-4A85-BDCE-A9334A1E33F4}|..\\zotai\\zotai.pyproj|C:\\Users\\mete\\Zotero\\zotai\\zot34.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "zotxt.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotxt.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotxt.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotxt.py",
+              "RelativeToolTip": "..\\zotai\\zotxt.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zottxt30.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt30.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt30.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt30.py",
+              "RelativeToolTip": "..\\zotai\\zottxt30.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:49.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "zottxt29.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt29.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt29.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt29.py",
+              "RelativeToolTip": "..\\zotai\\zottxt29.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zottxt28.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt28.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt28.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt28.py",
+              "RelativeToolTip": "..\\zotai\\zottxt28.py",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:49.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "zottxt27.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt27.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt27.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt27.py",
+              "RelativeToolTip": "..\\zotai\\zottxt27.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:48.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "zottxt26.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt26.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt26.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt26.py",
+              "RelativeToolTip": "..\\zotai\\zottxt26.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "zottxt25.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt25.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt25.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt25.py",
+              "RelativeToolTip": "..\\zotai\\zottxt25.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:48.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "zottxt24.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt24.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt24.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt24.py",
+              "RelativeToolTip": "..\\zotai\\zottxt24.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:48.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "zottxt23.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt23.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt23.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt23.py",
+              "RelativeToolTip": "..\\zotai\\zottxt23.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:48.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "zottxt22.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt22.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt22.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt22.py",
+              "RelativeToolTip": "..\\zotai\\zottxt22.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:48.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "zottxt21.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt21.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt21.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt21.py",
+              "RelativeToolTip": "..\\zotai\\zottxt21.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "zottxt20.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt20.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt20.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt20.py",
+              "RelativeToolTip": "..\\zotai\\zottxt20.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:48.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "zottxt19.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt19.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt19.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt19.py",
+              "RelativeToolTip": "..\\zotai\\zottxt19.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:47.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "zottxt18.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt18.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt18.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt18.py",
+              "RelativeToolTip": "..\\zotai\\zottxt18.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "zottxt17.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt17.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt17.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt17.py",
+              "RelativeToolTip": "..\\zotai\\zottxt17.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:47.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "zottxt14.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt14.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt14.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt14.py",
+              "RelativeToolTip": "..\\zotai\\zottxt14.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:47.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "zottxt6.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt6.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt6.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt6.py",
+              "RelativeToolTip": "..\\zotai\\zottxt6.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:47.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "zottxt3.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt3.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt3.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt3.py",
+              "RelativeToolTip": "..\\zotai\\zottxt3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:47.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "zottxt2.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt2.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt2.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt2.py",
+              "RelativeToolTip": "..\\zotai\\zottxt2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "zottxt1.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt1.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt1.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt1.py",
+              "RelativeToolTip": "..\\zotai\\zottxt1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:47.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "zottxt.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zottxt.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zottxt.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zottxt.py",
+              "RelativeToolTip": "..\\zotai\\zottxt.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "zotai226.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai226.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai226.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai226.py",
+              "RelativeToolTip": "..\\zotai\\zotai226.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:46.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "zotai48x.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai48x.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai48x.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai48x.py",
+              "RelativeToolTip": "..\\zotai\\zotai48x.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:46.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "zotai47.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai47.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai47.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai47.py",
+              "RelativeToolTip": "..\\zotai\\zotai47.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "zotai46.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai46.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai46.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai46.py",
+              "RelativeToolTip": "..\\zotai\\zotai46.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:46.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "zotai45.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai45.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai45.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai45.py",
+              "RelativeToolTip": "..\\zotai\\zotai45.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "zotai44.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai44.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai44.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai44.py",
+              "RelativeToolTip": "..\\zotai\\zotai44.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:46.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "zotai43.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai43.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai43.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai43.py",
+              "RelativeToolTip": "..\\zotai\\zotai43.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "zotai42.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai42.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai42.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai42.py",
+              "RelativeToolTip": "..\\zotai\\zotai42.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "zotai41.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai41.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai41.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai41.py",
+              "RelativeToolTip": "..\\zotai\\zotai41.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "zotai40.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai40.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai40.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai40.py",
+              "RelativeToolTip": "..\\zotai\\zotai40.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "zotai39.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai39.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai39.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai39.py",
+              "RelativeToolTip": "..\\zotai\\zotai39.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "zotai37.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai37.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai37.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai37.py",
+              "RelativeToolTip": "..\\zotai\\zotai37.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "zotai36.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai36.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai36.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai36.py",
+              "RelativeToolTip": "..\\zotai\\zotai36.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "zotai35.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai35.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai35.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai35.py",
+              "RelativeToolTip": "..\\zotai\\zotai35.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "zotai33.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai33.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai33.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai33.py",
+              "RelativeToolTip": "..\\zotai\\zotai33.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "zotai32.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai32.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai32.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai32.py",
+              "RelativeToolTip": "..\\zotai\\zotai32.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:45.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "zotai31.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai31.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai31.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai31.py",
+              "RelativeToolTip": "..\\zotai\\zotai31.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:44.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "zotai30.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai30.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai30.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai30.py",
+              "RelativeToolTip": "..\\zotai\\zotai30.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:44.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "zotai27.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai27.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai27.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai27.py",
+              "RelativeToolTip": "..\\zotai\\zotai27.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:44.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "zotai24.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai24.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai24.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai24.py",
+              "RelativeToolTip": "..\\zotai\\zotai24.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:44.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "zotai23.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai23.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai23.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai23.py",
+              "RelativeToolTip": "..\\zotai\\zotai23.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "zotai22.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai22.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai22.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai22.py",
+              "RelativeToolTip": "..\\zotai\\zotai22.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:44.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "zotai21.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai21.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai21.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai21.py",
+              "RelativeToolTip": "..\\zotai\\zotai21.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:43.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "zotai20.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai20.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai20.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai20.py",
+              "RelativeToolTip": "..\\zotai\\zotai20.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:43.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "zotai19.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai19.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai19.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai19.py",
+              "RelativeToolTip": "..\\zotai\\zotai19.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:43.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "zotai18.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai18.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai18.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai18.py",
+              "RelativeToolTip": "..\\zotai\\zotai18.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:43.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "zotai17.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai17.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai17.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai17.py",
+              "RelativeToolTip": "..\\zotai\\zotai17.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:43.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "zotai16.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai16.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai16.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai16.py",
+              "RelativeToolTip": "..\\zotai\\zotai16.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:43.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "zotai15.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai15.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai15.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai15.py",
+              "RelativeToolTip": "..\\zotai\\zotai15.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:43.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "zotai14.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai14.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai14.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai14.py",
+              "RelativeToolTip": "..\\zotai\\zotai14.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:43.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "zotai13.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai13.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai13.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai13.py",
+              "RelativeToolTip": "..\\zotai\\zotai13.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "zotai12.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai12.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai12.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai12.py",
+              "RelativeToolTip": "..\\zotai\\zotai12.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "zotai11.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai11.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai11.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai11.py",
+              "RelativeToolTip": "..\\zotai\\zotai11.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "zotai10.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai10.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai10.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai10.py",
+              "RelativeToolTip": "..\\zotai\\zotai10.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "zotai9.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai9.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai9.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai9.py",
+              "RelativeToolTip": "..\\zotai\\zotai9.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "zotai8.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai8.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai8.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai8.py",
+              "RelativeToolTip": "..\\zotai\\zotai8.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "zotai7.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai7.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai7.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai7.py",
+              "RelativeToolTip": "..\\zotai\\zotai7.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "zotai6.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai6.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai6.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai6.py",
+              "RelativeToolTip": "..\\zotai\\zotai6.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "zotai5.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai5.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai5.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai5.py",
+              "RelativeToolTip": "..\\zotai\\zotai5.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "zotai4.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai4.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai4.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai4.py",
+              "RelativeToolTip": "..\\zotai\\zotai4.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:42.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "zotai3.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai3.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai3.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai3.py",
+              "RelativeToolTip": "..\\zotai\\zotai3.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:41.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "zotai2.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai2.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai2.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai2.py",
+              "RelativeToolTip": "..\\zotai\\zotai2.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:41.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "zotai.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zotai.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zotai.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zotai.py",
+              "RelativeToolTip": "..\\zotai\\zotai.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:41.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "zot38.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zot38.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zot38.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zot38.py",
+              "RelativeToolTip": "..\\zotai\\zot38.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:41.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "zot34.py",
+              "DocumentMoniker": "C:\\Users\\mete\\Zotero\\zotai\\zot34.py",
+              "RelativeDocumentMoniker": "..\\zotai\\zot34.py",
+              "ToolTip": "C:\\Users\\mete\\Zotero\\zotai\\zot34.py",
+              "RelativeToolTip": "..\\zotai\\zot34.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-10T16:53:41.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
