@@ -531,3 +531,5 @@ Gerekirse, embedinge gitmeden önce bu bölümleri ayıklayacak ek bir adım ekl
 > aglati.  daha efendice yazmayacagim. sorin cozmesi guzel ama prompta
 > soylesende soylemesende kafasina gore fonksiyon atip fonksiyon adi
 > degistirip her boka musallat olabiliyor.
+=======
+>>>>>>> 9934da9f16f370b2da4e303cda39d19f3e371f8f
