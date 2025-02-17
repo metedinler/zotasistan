@@ -533,3 +533,56 @@ Gerekirse, embedinge gitmeden önce bu bölümleri ayıklayacak ek bir adım ekl
 > degistirip her boka musallat olabiliyor.
 =======
 >>>>>>> 9934da9f16f370b2da4e303cda39d19f3e371f8f
+
+
+## ZPT8 ##
+Aşağıda önceki sürümde vardıktan sonra güncelleme sırasında çıkarılan, değiştirilmiş ve eklenen fonksiyonları özetliyorum:
+
+### Var Olan ve Kısmen Güncellenen Fonksiyonlar
+
+-   **init_dirs:**
+    
+    -   Eski sürümde dizin oluşturma işlemleri vardı. Aynı işlevi görüyor ancak dizin isimleri ve oluşturulacak ek klasörler (ör. JSON, CSV, Excel alt dizinleri) bu sürümde daha net tanımlandı.
+-   **memory_usage:**
+    
+    -   Bellek kullanımını hesaplama fonksiyonu, önceki sürümde de vardı.
+-   **clean_text:**
+    
+    -   Temizlik işlemi yapıyor; önceki sürümde vardı ancak bu sürümde satır sonlarının ve boşlukların düzenlenmesinde küçük iyileştirmeler yapıldı.
+-   **split_text:**
+    
+    -   Metni parçalara bölme işlemi, önceki sürümde vardı. Bu sürümde paragraflara bölünme mantığı eklenerek (önce paragraflara ayrılıyor, ardından kelime sayısına göre bölünüyor) iyileştirildi.
+-   **embed_text:**
+    
+    -   OpenAI API’si kullanılarak embedding oluşturma fonksiyonu, daha önce de vardı; hata yönetimi ve loglama eklemeleriyle güncellendi.
+-   **fetch_zotero_metadata:**
+    
+    -   Zotero’dan bibliyografik bilgi çekme işlemi, önceki sürümde de mevcuttu.
+-   **save_last_processed_index** ve **get_last_processed_index:**
+    
+    -   İşlenmiş dosya indekslerinin kaydedilip okunması, önceki sürümde de vardı.
+-   **process_file:**
+    
+    -   Temel dosya işleme fonksiyonu; önceki sürümde PDF’den ham metin çıkarma, temizleme, tablo ve kaynakça işlemleri vardı. Bu sürümde, sütun tespiti (reflow_columns çağrısı), ham metin içerisinden ekstraların (tablolar, resimler, referanslar) ayrılması, temiz metnin wrap olmadan kaydedilmesi, metnin küçük parçalara bölünüp embedding işlemi ve bu embedding’lerin ChromaDB’ye eklenmesi gibi işlemler eklenerek önemli ölçüde güncellendi.
+-   **main:**
+    
+    -   Ana akış fonksiyonu; kullanıcı seçimlerine göre işleyişi başlatan kısım, önceki sürümde vardı ancak bu sürümde yeni işlevler (ör. reflow_columns, save_text_file gibi ek fonksiyonlar) ve hata yönetimiyle genişletildi.
+
+### Yeni Eklenen Fonksiyonlar
+
+-   **save_text_file:**
+    
+    -   Belirtilen dizine, verilen dosya adını kullanarak içerik kaydetmeyi standartlaştırmak için eklendi.
+-   **reflow_columns:**
+    
+    -   Çok sütunlu PDF metinlerinde, özellikle bilimsel yayınlarda özet ve asıl metin farklı sütun düzeninde olduğunda, akışı düzeltmek amacıyla eklendi. Bu fonksiyon, metindeki sütun yapısını tespit edip, tek sütunlu akışa dönüştürme amaçlı basit bir algoritma içeriyor.
+-   **detect_tables:**
+    
+    -   PDF’den tablo çıkarımını doğrudan yapmaya yönelik fonksiyon, önceki sürümde metin içerisinden tablo tespiti yapılıyordu. Bu sürümde PDF üzerinden doğrudan tablo çıkarımı için basit yöntemler eklenerek geliştirildi.
+-   **extract_references:**
+    
+    -   Önceki sürümde "extract_references_enhanced" şeklinde tanımlanmıştı. Bu sürümde, kaynakça çıkarımına yönelik mantık daha kısa ve net bir şekilde "extract_references" fonksiyonu altında toplandı.
+
+----------
+
+Bu özet, önceki sürüme göre hangi fonksiyonların var olduğunu, hangilerinin güncellendiğini ve yeni eklenen fonksiyonları göstermektedir.
