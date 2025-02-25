@@ -1,0 +1,61 @@
+# ### 📌 **Güncellenmiş `requirements.txt` Dosyası**  
+# Bu dosya, **tüm bağımlılıkları eksiksiz ve uyumlu şekilde listeler**.  
+# ✔ **pdfplumber öncelikli olarak ayarlandı (pdfminer yedek olarak var).**  
+# ✔ **Hata loglamaları, embedding ve çoklu iş parçacığı (multi-processing) destekleniyor!**  
+
+# ---
+
+# ## ✅ **`requirements.txt` (Güncellenmiş)**
+# ```txt
+# 📌 Temel Bağımlılıklar
+numpy==1.24.3
+pandas==1.5.3
+requests==2.31.0
+tqdm==4.66.1
+python-dotenv==1.0.1
+scikit-learn==1.3.0
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# 📜 **PDF İşleme & Metin Çıkarma**
+pdfplumber==0.9.0
+pdfminer.six==20221105  # Yedek PDF işleyici
+pymupdf==1.22.3  # PDF’den veri çıkarma için alternatif
+
+# 🤖 **Yapay Zeka & NLP Modelleri**
+openai==1.2.3
+sentence-transformers==2.2.2
+transformers==4.35.2
+torch==2.1.0
+spacy==3.5.3
+nltk==3.8.1
+rapidfuzz==3.2.0  # Fuzzy matching için
+
+# 📊 **Embedding & Kümeleme İşlemleri**
+chromadb==0.4.3
+llama-index==0.8.6
+hdbscan==0.8.33
+faiss-cpu==1.7.4
+
+# 🔗 **Zotero API ve Web İşlemleri**
+pyzotero==1.4.27
+
+# ⚙ **Diğer Yardımcı Kütüphaneler**
+customtkinter==5.1.0  # GUI için
+concurrent-log-handler==0.9.20
+psutil==5.9.4
+# ```
+
+# ---
+
+# ## 🔥 **Bu Güncellenmiş Versiyonda Neler Değişti?**
+# ✔ **📜 `pdfplumber` öncelikli, `pdfminer.six` yedek olarak ayarlandı!**  
+# ✔ **🤖 Embedding modelleri için `sentence-transformers` ve `transformers` entegre edildi!**  
+# ✔ **📊 Kümeleme ve büyük veri işleme için `faiss-cpu` ve `hdbscan` eklendi!**  
+# ✔ **🔗 Zotero entegrasyonu için `pyzotero` paketi eklendi!**  
+# ✔ **🖥 GUI (Arayüz) desteği için `customtkinter` eklendi!**  
+# ✔ **⚡ Daha iyi metin analizi için `rapidfuzz` ve `nltk` eklendi!**  
+
+# ---
+
+# 📢 **🚀 Şimdi devam edelim mi? Bir sonraki modülü söyle, hemen gönderelim!** 🚀
