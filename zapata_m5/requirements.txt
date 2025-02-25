@@ -1,0 +1,17 @@
+openai>=0.27.0
+chromadb>=0.3.0
+python-dotenv>=0.21.0
+pdfplumber>=0.6.0
+pdfminer.six>=20211012
+customtkinter>=5.0.3
+tqdm>=4.64.0
+pandas>=1.4.0
+scikit-learn>=1.1.0
+psutil>=5.9.0
+rapidfuzz>=2.13.7
+sentence-transformers>=2.2.2
+transformers>=4.29.0
+xlsxwriter>=3.0.2
+# Eğer HDBSCAN kullanılacaksa (opsiyonel)
+hdbscan>=0.8.28
+
