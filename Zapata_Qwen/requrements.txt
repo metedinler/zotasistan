@@ -1,0 +1,121 @@
+Tabii ki! Aşağıda, bu modülleri çalıştırmak için gereken `requirements.txt` ve `.env` dosyalarını oluşturacağım. Bu dosyalar, projenizin bağımlılıklarını ve ortam değişkenlerini yönetmenize yardımcı olacaktır.
+
+---
+
+### **1. `requirements.txt` Dosyası**
+
+Bu dosya, projenizin çalışması için gerekli olan Python kütüphanelerini içerir. Aşağıdaki içeriği bir `requirements.txt` dosyasına kaydedin:
+
+```plaintext
+# Temel Kütüphaneler
+PyMuPDF==1.23.0
+openai==1.10.0
+chromadb==0.4.10
+requests==2.31.0
+pandas==2.1.4
+tqdm==4.66.1
+colorlog==6.8.0
+scikit-learn==1.3.2
+transformers==4.35.2
+customtkinter==5.2.1
+
+# Opsiyonel Kütüphaneler (Eğer gerekli ise)
+pdfminer.six==20231117
+textract==1.6.0
+psutil==5.9.6
+pytz==2023.3.post1
+# ```
+# 
+# # **Notlar:**
+# # - Eğer herhangi bir kütüphane yükleme hatası alırsanız, ilgili kütüphanenin sürümünü güncelleyebilirsiniz.
+# # - `textract` gibi bazı kütüphaneler platforma bağlı olabilir. Örneğin, Windows'ta `textract` kurulumu için ek bağımlılıklar gerekebilir.
+# # 
+# # Kütüphaneleri yüklemek için aşağıdaki komutu kullanın:
+# # ```bash
+# # pip install -r requirements.txt
+# # ```
+# 
+# ---
+
+### **2. `.env` Dosyası**
+
+Bu dosya, projenizin çalışması için gereken ortam değişkenlerini içerir. Aşağıdaki içeriği bir `.env` dosyasına kaydedin:
+
+```plaintext
+# Dizin Tanımlamaları
+STORAGE_DIR=C:/Users/met e/Zotero/storage  # Zotero PDF'lerin saklandığı dizin
+SUCCESS_DIR=C:/Users/met e/Zotero/zotasistan/success  # İşlenmiş dosyaların saklanacağı ana dizin
+KAYNAK_DIZIN=C:/Users/met e/Zotero/zotasistan/kaynak  # Ana kaynak dizini
+HEDEF_DIZIN=C:/Users/met e/Zotero/zotasistan/hedef  # Hedef dizin (örneğin temiz metinler)
+TEMIZMETIN_DIR=C:/Users/met e/Zotero/zotasistan/temizmetin  # Temiz metinlerin saklanacağı dizin
+TEMIZ_TABLO_DIZIN=C:/Users/met e/Zotero/zotasistan/temiztablo  # Temiz tabloların saklanacağı dizin
+TEMIZ_KAYNAKCA_DIZIN=C:/Users/met e/Zotero/zotasistan/temizkaynakca  # Temiz kaynakçaların saklanacağı dizin
+PDF_DIR=C:/Users/met e/Zotero/zotasistan/pdfler  # PDF'lerin saklanacağı dizin
+EMBEDDING_PARCA_DIR=C:/Users/met e/Zotero/zotasistan/embedingparca  # Embedding parçalarının saklanacağı dizin
+
+# Log Dosyaları
+LOG_DOSYASI=C:/Users/met e/Zotero/zotasistan/islem_logu.json  # İşlem logları
+HATA_LOG_DOSYASI=C:/Users/met e/Zotero/zotasistan/hata_logu.json  # Hata logları
+
+# API Anahtarları
+OPENAI_API_KEY=your_openai_api_key_here  # OpenAI API anahtarı
+ZOTERO_API_KEY=your_zotero_api_key_here  # Zotero API anahtarı
+ZOTERO_USER_ID=your_zotero_user_id_here  # Zotero kullanıcı kimliği
+ZOTERO_API_URL=https://api.zotero.org/users/your_zotero_user_id_here/items  # Zotero API URL'si
+
+# ```
+# 
+# **Notlar:**
+# 1. **Dizin Yolları:** Dizin yollarını sisteminizdeki gerçek yollara göre düzenleyin. Örneğin, `C:/Users/met e/...` yerine kendi yollarınızı yazın.
+# 2. **API Anahtarları:** 
+#    - `OPENAI_API_KEY`: OpenAI hesabınızdan alınan API anahtarını buraya yazın.
+#    - `ZOTERO_API_KEY` ve `ZOTERO_USER_ID`: Zotero hesabınızdan alınan API anahtarını ve kullanıcı kimliğinizi buraya yazın.
+# 3. **Log Dosyaları:** Log dosyalarının yollarını da düzenleyebilirsiniz.
+# 
+# ---
+# 
+# ### **3. Modülleri Çalıştırma Adımları**
+# 
+# 1. **Proje Dizini Oluşturun:**
+#    - Tüm modülleri tek bir dizinde toplayın. Örneğin:
+#      ```
+#      zotasistan/
+#      ├── module_main_program_flow.py
+#      ├── module_memory_and_performance_monitoring.py
+#      ├── requirements.txt
+#      ├── .env
+#      ```
+# 
+# 2. **Bağımlılıkları Yükleyin:**
+#    - `requirements.txt` dosyasını kullanarak gerekli kütüphaneleri yükleyin:
+#      ```bash
+#      pip install -r requirements.txt
+#      ```
+# 
+# 3. **Ortam Değişkenlerini Ayarlayın:**
+#    - `.env` dosyasındaki değerleri düzenleyin ve doğru yolları/API anahtarlarını girin.
+# 
+# 4. **Modülleri Çalıştırın:**
+#    - Ana program akışını başlatmak için aşağıdaki komutu kullanın:
+#      ```bash
+#      python module_main_program_flow.py
+#      ```
+# 
+# 5. **GUI'yi Kullanın (Opsiyonel):**
+#    - Eğer GUI özelliklerini kullanmak istiyorsanız, `AdditionalFeaturesGUI` sınıfını çalıştırmak için:
+#      ```bash
+#      python -m tkinter  # Tkinter'in düzgün çalıştığından emin olun
+#      python module_main_program_flow.py
+#      ```
+# 
+# ---
+# 
+# ### **4. Ek Notlar**
+# 
+# - **Hata Ayıklama:** Eğer herhangi bir hata alırsanız, `pdf_processing.log` veya `hata_logu.json` dosyalarını kontrol edin. Bu dosyalar size detaylı bilgi verecektir.
+# - **Paralel İşleme:** Proje, `multiprocessing` kullanarak paralel işleme yapar. Eğer çok çekirdekli bir sistemde çalışıyorsanız, performans artışı sağlayacaktır.
+# - **ChromaDB Veritabanı:** ChromaDB veritabanı, `chroma_db` adlı bir dizinde saklanır. Bu dizini düzenli olarak yedeklemeniz önerilir.
+# 
+# ---
+
+Bu adımları takip ederek projenizi sorunsuz bir şekilde çalıştırabilirsiniz. Eğer herhangi bir sorun yaşarsanız, lütfen bana bildirin! 😊
