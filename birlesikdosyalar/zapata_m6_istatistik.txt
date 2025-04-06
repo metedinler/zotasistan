@@ -1,0 +1,15 @@
+# zapata_m6 İstatistikleri
+Total Lines: 1793 (Toplam kod satırı sayısı)
+Comment Ratio: 386.9604732386778 (Yorum oranı yüksekse kod daha okunabilir olur)
+Class Count: 15 (Sınıf sayısı, kodun nesne yönelimli yapısını gösterir)
+Func Count: 2 (Fonksiyon sayısı, kodun modülerliğini belirtir)
+Import Count: 72 (Dış bağımlılıkların sayısı)
+Try Blocks: 0 (Hata yönetimi yoğunluğu)
+Complexity: 18 (Düşük karmaşıklık daha az hata riski demektir)
+Duplication: 0.9353530237919729 (Kod tekrarı az olmalı, bakım zorlaşır)
+Maintainability: 1500.0012438009776 (Yüksek değer bakım kolaylığı sağlar)
+Coverage: 1.0 (Test kapsayıcılığı yüksekse güvenilirlik artar)
+
+# Kod Optimizasyon Önerileri
+- Yüksek karmaşıklık tespit edildi, fonksiyonlar bölünebilir.
+- Kod tekrarı var, ortak fonksiyonlar oluşturulabilir.

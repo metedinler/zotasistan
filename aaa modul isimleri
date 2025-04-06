@@ -1,0 +1,31 @@
+configmodule.py: Programın genel yapılandırma ayarlarını (dizinler, API anahtarları, loglama ayarları vb.) yönetir.
+
+zoteromodule.py: Zotero API entegrasyonunu sağlar. Bibliyometrik verileri alır ve referansları analiz eder.
+
+pdfprocessing.py: PDF dosyalarından metin çıkarır, metindeki sütun yapısını tespit eder, bilimsel bölümleri haritalar ve metni yeniden düzenler.
+
+embeddingmodule.py: Metinleri kelime veya paragraf bazında parçalar, OpenAI API veya SentenceTransformer modelleri ile metin embedding'leri oluşturur ve embedding'leri veritabanına kaydeder.
+
+alternativeembeddingmodule.py: Farklı SentenceTransformer modellerini yükler ve metin embedding'leri oluşturur. (Alternatif embedding yöntemleri için)
+
+robustembeddingmodule.py: Hata toleransı ve alternatif model geçişi sağlayarak daha güvenilir embedding oluşturma işlemleri gerçekleştirir.
+
+helpermodule.py: Metin temizleme, benzerlik eşleştirme ve bellek kullanımı ölçme gibi yardımcı işlevler içerir.
+
+processingmanager.py: Dosya türüne göre metin işleme adımlarını koordine eder ve işlemleri yönetir. Ana iş akışını kontrol eder.
+
+filesavemodule.py: Metin verilerini, tabloları, kaynakçaları ve embedding'leri farklı formatlarda dosyalara ve veritabanına kaydeder.
+
+citationmappingmodule.py: Metin içindeki atıf ifadelerini tespit eder, kaynakça referanslarıyla eşler ve atıf mapping verilerini oluşturur. (Atıf analizi için)
+
+clustering_module.py: Metin verilerini kümelendirir ve sonuçları görselleştirir. (Konu modelleme ve analiz için)
+
+veri_isleme.py: Atıf zinciri analizi yapar ve ilgili verileri işler.
+
+veri_gorsellestirme.py: Atıf zincirini VOSc formatında kaydeder. (Görselleştirme için)
+
+yapay_zeka_finetuning.py: Embedding verileriyle yapay zeka modelini fine-tune eder. (İleri düzey analizler için)
+
+guimodule.py: Kullanıcı arayüzünü yönetir ve kullanıcı etkileşimini sağlar. (Eğer GUI varsa)
+
+main.py: Tüm modülleri entegre eder, programın ana döngüsünü ve kullanıcı girdilerini yönetir.
